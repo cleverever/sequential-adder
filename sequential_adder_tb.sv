@@ -1,0 +1,2 @@
+module sequential_adder_tb;
+endmodule
