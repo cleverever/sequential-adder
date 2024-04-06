@@ -246,5 +246,4 @@ initial begin
     uvm_config_db #(virtual add_ifc)::set(null, "*", "aifc", aifc);
     run_test("test");
 end
-
 endmodule
